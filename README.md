@@ -16,6 +16,11 @@
 
 ## 🚀 Запуск
 
-```bash
-javac Calculator.java
-java Calculator
+# Скачай
+https://github.com/aisovmain/calculator/releases/tag/calc
+
+# Распакуй
+calculator.zip
+
+# Пользуйся!
+./calculator.exe
